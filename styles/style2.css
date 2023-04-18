@@ -73,7 +73,7 @@ main section.table table tr {
   transition: all 0.2s ease;
 }
 main section.table table tr td {
-  padding: 1rem;
+  padding: 1.75rem;
 }
 main section.table table tr:hover {
   background-color: rgba(219, 132, 161, 0.356);
